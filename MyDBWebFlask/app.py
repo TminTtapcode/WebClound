@@ -7,8 +7,8 @@ app.secret_key = 'supersecretkey'  # Để dùng flash message
 # Cấu hình DB (Thay thông tin AWS RDS của bạn vào đây)
 db_config = {
     'user': 'admin',
-    'password': 'MatKhauCuaBan123',
-    'host': 'btl-db.xxxx.us-east-1.rds.amazonaws.com',
+    'password': '0946602954',
+    'host': 'triet-web-db.ctsjlpcfk5po.us-east-1.rds.amazonaws.com',
     'database': 'ngoaingu_db'
 }
 
